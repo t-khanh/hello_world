@@ -1,0 +1,58 @@
+Started GET "/" for 127.0.0.1 at 2017-10-18 01:16:47 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/fybtdev01/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/railties-5.0.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/fybtdev01/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/railties-5.0.6/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 20ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-18 01:21:16 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/fybtdev01/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/railties-5.0.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/fybtdev01/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/gems/railties-5.0.6/lib/rails/templates/rails/welcome/index.html.erb (4.4ms)
+Completed 200 OK in 21ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-18 01:26:20 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 1406ms (Views: 1395.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-18 01:35:37 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 00:53:35 +0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 484ms (Views: 472.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 01:05:11 +0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 255ms (Views: 241.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 01:48:30 +0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 307ms (Views: 274.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-10-19 01:51:23 +0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 214ms (Views: 200.3ms | ActiveRecord: 0.0ms)
+
+
