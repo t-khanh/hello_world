@@ -1,4 +1,4 @@
-#repo development
+#hello world
 FROM rails:onbuild
 
 RUN mkdir -p /usr/src/app
