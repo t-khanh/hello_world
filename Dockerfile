@@ -1,4 +1,4 @@
-#repo development1
+#repo development
 FROM rails:onbuild
 
 RUN mkdir -p /usr/src/app
