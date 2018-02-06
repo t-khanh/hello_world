@@ -1,7 +1,12 @@
 node {
    def app
-   stage('Clon repo'){
+   stage('Clon repository'){
         checkout scm
    }
-   echo "Test"
+   
+   stagge('Build image'){
+       app = docker.build("test")
+   }
+
+   echo "tesg"+$(env.BUILD_NUMBER);
 }
